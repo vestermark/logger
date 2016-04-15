@@ -1,0 +1,24 @@
+{
+  "name": "logger",
+  "version": "0.0.1",
+  "description": "Logging utility for npm",
+  "main": "logger.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vestermark/logger.git"
+  },
+  "keywords": [
+    "logging",
+    "node",
+    "npm"
+  ],
+  "author": "Soren Vestermark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vestermark/logger/issues"
+  },
+  "homepage": "https://github.com/vestermark/logger#readme"
+}
